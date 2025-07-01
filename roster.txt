@@ -1,6 +1,8 @@
 This is a class roster. Include your Last Name, First below this line: 
 Kyung, Bryan
 Conn Heery
-Mihnea-Teodor Stoica
+Mihnea-Teodor Stoica 2
 Andrew Du
 Grady O'Keefe 2
+Felix Liu
+Michael Huang 2

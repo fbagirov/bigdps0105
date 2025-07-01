@@ -1,4 +1,5 @@
 This is a class roster. Include your Last Name, First below this line: 
+Sarsembayev Tair
 Kyung, Bryan
 Conn Heery 2
 Mihnea-Teodor Stoica 2
